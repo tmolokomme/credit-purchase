@@ -60,6 +60,10 @@
           <version>1.0.1.Final</version>
           <scope>provided</scope>
         </dependency>
+        <dependency>
+          <groupId></groupId>
+          <artifactId>jboss.jaxws-api_</artifactId>
+        </dependency>
       </dependencies>
       <repositories>
         <repository>
